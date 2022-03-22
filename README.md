@@ -5,6 +5,7 @@ Hello and welcome to the Matrix Game! This is a simple project which can really 
 The game is played by two players on a 4x4 board. You may notice that I added a 5x5 board in my project. This was to test some things out, but I haven't finished that part yet.
 
 Here is what each square of the 4x4 board looks like: 
+If the squares don't look like squares, try clicking <> again!
 
   #--------#      a--------b
   | Val: Z |  or  | Val: Z |
